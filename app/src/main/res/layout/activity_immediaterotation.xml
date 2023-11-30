@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Immediaterotation"
+    android:orientation= "vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:layout_marginTop="30sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ich möchte Wechseln/ ich brauche Unterstützung wegen:"
+        android:textSize="30dp"
+        android:textColor="@color/grayBackground"
+        android:padding="15dp"
+        />
+
+
+    <Button
+        android:id="@+id/btnhelpK"
+        android:layout_marginTop="50sp"
+        android:layout_marginLeft="20sp"
+        android:layout_marginRight="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="95sp"
+        android:textSize="25dp"
+        android:text="Körperlicher Überforderung"
+        android:padding="10sp"
+
+        />
+    <!--android:onClick="onDigit"-->
+
+    <Button
+        android:id="@+id/btnhelpG"
+        android:layout_marginTop="50sp"
+        android:layout_marginLeft="20sp"
+        android:layout_marginRight="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="95sp"
+        android:textSize="25dp"
+        android:text="Geistiger Überforderung"
+        />
+    <TextView
+        android:id="@+id/tvhelp"
+        android:layout_marginTop="40sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="30sp"
+        android:layout_gravity="center_horizontal"
+        />
+</LinearLayout>

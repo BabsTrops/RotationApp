@@ -1,0 +1,4 @@
+com.example.rotations_app.test.app-androidTest-0 /home/nikgue/Downloads/Rotations_App4/app/build/generated/res/resValues/androidTest/debug
+com.example.rotations_app.test.app-mergeDebugAndroidTestResources-1 /home/nikgue/Downloads/Rotations_App4/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.rotations_app.test.app-mergeDebugAndroidTestResources-2 /home/nikgue/Downloads/Rotations_App4/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.rotations_app.test.app-merged_res-3 /home/nikgue/Downloads/Rotations_App4/app/build/intermediates/merged_res/debugAndroidTest

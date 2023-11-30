@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Grund"
+    android:orientation= "vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Art der Beanspruchung :"
+        android:textSize="40dp"
+        android:textColor="@color/grayButton"
+        android:background="@color/grayBackground"
+        android:padding="15dp"
+        />
+    
+    <Button
+        android:id="@+id/KUeber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:text="Körperliche Überforderung"
+        android:layout_margin="5dp"
+        />
+        <!--android:onClick="onDigit"-->
+    <Button
+        android:id="@+id/KUnter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:text="Körperliche Unterforderung"
+        android:layout_margin="5dp"
+        />
+    <Button
+        android:id="@+id/GUeber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:text="Geistige Überforderung"
+        android:layout_margin="5dp"
+        />
+    <Button
+        android:id="@+id/GUnter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:text="Geistige Unterforderung"
+        android:layout_margin="5dp"
+        />
+    <TextView
+        android:layout_marginTop="40sp"
+        android:id="@+id/confirm_press"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:text=""
+        android:layout_gravity="center_horizontal"
+        />
+
+    <!--android:onClick="onDigit"-->
+
+
+</LinearLayout>

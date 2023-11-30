@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Rotations_App">
+
+        <activity android:name=".Evaluation"/>
+        <activity
+            android:name=".AddUser"
+            android:label="@string/title_activity_add_user"
+            android:theme="@style/Theme.Rotations_App" />
+        <activity
+            android:name=".Immediaterotation"
+            android:label="@string/title_activity_immediaterotation"
+            android:theme="@style/Theme.Rotations_App" />
+        <activity
+            android:name=".Grund"
+            android:label="@string/title_activity_grund"
+            android:theme="@style/Theme.Rotations_App" />
+        <activity
+            android:name=".Abstimmen"
+            android:label="@string/title_activity_abstimmen"
+            android:theme="@style/Theme.Rotations_App" />
+        <activity
+            android:name=".Bewertungen"
+            android:label="@string/title_activity_bewertungen"
+            android:theme="@style/Theme.Rotations_App" />
+        <activity
+            android:name=".NextRotation"
+            android:label="@string/title_activity_next_rotation"
+            android:theme="@style/Theme.Rotations_App" />
+        <activity
+            android:name=".Menue"
+            android:label="@string/title_activity_menue"
+            android:theme="@style/Theme.Rotations_App" />
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Rotations_App.NoActionBar"
+            android:windowSoftInputMode="adjustResize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.example.rotations_app-mergeDebugResources-20:/layout/activity_bewertungen.xml",
+        "source": "com.example.rotations_app-main-23:/layout/activity_bewertungen.xml"
+    },
+    {
+        "merged": "com.example.rotations_app-mergeDebugResources-20:/layout/activity_grund.xml",
+        "source": "com.example.rotations_app-main-23:/layout/activity_grund.xml"
+    },
+    {
+        "merged": "com.example.rotations_app-mergeDebugResources-20:/layout/activity_immediaterotation.xml",
+        "source": "com.example.rotations_app-main-23:/layout/activity_immediaterotation.xml"
+    },
+    {
+        "merged": "com.example.rotations_app-mergeDebugResources-20:/layout/activity_menue.xml",
+        "source": "com.example.rotations_app-main-23:/layout/activity_menue.xml"
+    },
+    {
+        "merged": "com.example.rotations_app-mergeDebugResources-20:/layout/items_row.xml",
+        "source": "com.example.rotations_app-main-23:/layout/items_row.xml"
+    },
+    {
+        "merged": "com.example.rotations_app-mergeDebugResources-20:/layout/activity_abstimmen.xml",
+        "source": "com.example.rotations_app-main-23:/layout/activity_abstimmen.xml"
+    },
+    {
+        "merged": "com.example.rotations_app-mergeDebugResources-20:/layout/activity_main.xml",
+        "source": "com.example.rotations_app-main-23:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.rotations_app-mergeDebugResources-20:/layout/content.xml",
+        "source": "com.example.rotations_app-main-23:/layout/content.xml"
+    },
+    {
+        "merged": "com.example.rotations_app-mergeDebugResources-20:/layout/content_next_rotation.xml",
+        "source": "com.example.rotations_app-main-23:/layout/content_next_rotation.xml"
+    },
+    {
+        "merged": "com.example.rotations_app-mergeDebugResources-20:/layout/content_bewertungen.xml",
+        "source": "com.example.rotations_app-main-23:/layout/content_bewertungen.xml"
+    },
+    {
+        "merged": "com.example.rotations_app-mergeDebugResources-20:/layout/dialog_update.xml",
+        "source": "com.example.rotations_app-main-23:/layout/dialog_update.xml"
+    },
+    {
+        "merged": "com.example.rotations_app-mergeDebugResources-20:/layout/content_menue.xml",
+        "source": "com.example.rotations_app-main-23:/layout/content_menue.xml"
+    },
+    {
+        "merged": "com.example.rotations_app-mergeDebugResources-20:/layout/activity_add_user.xml",
+        "source": "com.example.rotations_app-main-23:/layout/activity_add_user.xml"
+    },
+    {
+        "merged": "com.example.rotations_app-mergeDebugResources-20:/layout/activity_nextrotation.xml",
+        "source": "com.example.rotations_app-main-23:/layout/activity_nextrotation.xml"
+    },
+    {
+        "merged": "com.example.rotations_app-mergeDebugResources-20:/layout/content_abstimmen.xml",
+        "source": "com.example.rotations_app-main-23:/layout/content_abstimmen.xml"
+    },
+    {
+        "merged": "com.example.rotations_app-mergeDebugResources-20:/layout/activity_evaluation.xml",
+        "source": "com.example.rotations_app-main-23:/layout/activity_evaluation.xml"
+    },
+    {
+        "merged": "com.example.rotations_app-mergeDebugResources-20:/layout/content_main.xml",
+        "source": "com.example.rotations_app-main-23:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.example.rotations_app-mergeDebugResources-20:/layout/content_grund.xml",
+        "source": "com.example.rotations_app-main-23:/layout/content_grund.xml"
+    },
+    {
+        "merged": "com.example.rotations_app-mergeDebugResources-20:/layout/content_add_user.xml",
+        "source": "com.example.rotations_app-main-23:/layout/content_add_user.xml"
+    },
+    {
+        "merged": "com.example.rotations_app-mergeDebugResources-20:/layout/content_immediaterotation.xml",
+        "source": "com.example.rotations_app-main-23:/layout/content_immediaterotation.xml"
+    }
+]

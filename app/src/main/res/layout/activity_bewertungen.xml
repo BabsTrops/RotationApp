@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Bewertungen"
+    android:orientation="vertical"
+    android:layout_margin="10sp"
+    >
+
+    <TextView
+        android:layout_marginTop="40sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="          Aktuelle"
+        android:textSize="45dp"
+        android:layout_gravity="center_horizontal"
+        android:padding="5sp"
+        android:background="@color/grayButton"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="  Einsatzfähigkeit:"
+        android:textSize="45dp"
+        android:layout_gravity="center_horizontal"
+        android:padding="5sp"
+        android:background="@color/grayButton"
+        />
+    <TextView
+
+            android:layout_marginTop="30sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Körperlich:"
+            android:textColor="@color/grayBackground"
+            android:textSize="50sp"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:padding="20dp"
+        />
+    <ProgressBar
+        android:id="@+id/progressBarK"
+        style="@style/Widget.AppCompat.SeekBar.Discrete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:progress="1"
+        android:progressDrawable="@drawable/leistungsanzeige"
+        android:max="25"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+        <TextView
+            android:id="@+id/K"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="free"
+            android:textColor="@color/grayBackground"
+            android:textSize="30sp"
+            android:gravity="center_horizontal"
+
+        />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="/25"
+            android:textColor="@color/grayBackground"
+            android:textSize="30sp"
+            android:gravity="center_horizontal"
+            />
+    </LinearLayout>
+    <View
+        android:layout_margin="35sp"
+        android:layout_width="320dp"
+        android:layout_height="2dp"
+        android:background="#FDD835"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Geistig:"
+        android:textColor="@color/grayBackground"
+        android:textSize="50sp"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:padding="15dp"
+        />
+
+    <ProgressBar
+        android:id="@+id/progressBarG"
+        style="@style/Widget.AppCompat.SeekBar.Discrete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:progress="1"
+        android:progressDrawable="@drawable/leistungsanzeige"
+        android:max="25"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:id="@+id/G"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="free"
+            android:textColor="@color/grayBackground"
+            android:textSize="30sp"
+            android:gravity="center_horizontal"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="/25"
+            android:textColor="@color/grayBackground"
+            android:textSize="30sp"
+            android:gravity="center_horizontal"
+            />
+    </LinearLayout>
+
+
+
+
+</LinearLayout>
+

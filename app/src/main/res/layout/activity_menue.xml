@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Menue"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:layout_margin="30sp"
+    android:padding="30sp"
+    >
+
+    <Button
+        android:id="@+id/nextRotation"
+        android:layout_width="match_parent"
+        android:drawableLeft="@drawable/ic_rotation"
+        android:layout_height="70sp"
+        android:text="Nächste Rotation"
+        android:textColor="@color/grayBackground"
+        android:textSize="19sp"
+        android:textStyle="bold"
+        android:layout_marginTop="45sp"
+        android:padding="10dp"
+        android:background="@drawable/menue_button"
+
+        />
+    <Button
+        android:id="@+id/meineBewertungen"
+        android:layout_width="match_parent"
+        android:layout_height="70sp"
+        android:drawableLeft="@drawable/ic_barchart"
+        android:text="Leistungsstatistik"
+        android:textColor="@color/grayBackground"
+        android:textSize="19sp"
+        android:textStyle="bold"
+        android:layout_marginTop="40sp"
+        android:padding="10dp"
+        android:background="@drawable/menue_button"
+        />
+    <Button
+        android:id="@+id/ArbeitsplazBewerten"
+        android:layout_width="match_parent"
+        android:layout_height="70sp"
+        android:drawableLeft="@drawable/ic_evaluation"
+        android:text="Rotation Bewerten"
+        android:textColor="@color/grayBackground"
+        android:textSize="19sp"
+        android:textStyle="bold"
+        android:layout_marginTop="40sp"
+        android:padding="10dp"
+        android:background="@drawable/menue_button"
+        />
+
+    <Button
+        android:id="@+id/immediatrotation"
+        android:layout_width="match_parent"
+        android:layout_height="70sp"
+        android:drawableLeft="@drawable/ic_report"
+        android:text="Hilfe anfordern"
+        android:textColor="@color/grayBackground"
+        android:textSize="19sp"
+        android:textStyle="bold"
+        android:layout_marginTop="40sp"
+        android:padding="10dp"
+        android:background="@drawable/menue_button"
+        />
+    <Button
+        android:id="@+id/adduser"
+        android:drawableLeft="@drawable/ic_adduser"
+        android:layout_width="match_parent"
+        android:layout_height="70sp"
+        android:text="Add User"
+        android:textColor="@color/grayBackground"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginTop="40sp"
+        android:padding="10dp"
+        android:background="@drawable/menue_button"
+        />
+
+</LinearLayout>
+

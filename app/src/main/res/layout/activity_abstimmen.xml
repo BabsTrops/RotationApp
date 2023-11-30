@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Abstimmen"
+    android:orientation= "vertical"
+    android:padding="10dp">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Empfinden Sie Ihre aktuelle Rotation als angemessen?"
+        android:textSize="40dp"
+        android:textColor="@color/grayButton"
+        android:background="@color/grayBackground"
+        android:padding="15dp"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginTop="200dp"
+        android:layout_margin="10dp"
+        android:orientation="horizontal"
+        android:padding="30dp"
+        android:layout_marginLeft="10dp">
+
+        <Button
+            android:id="@+id/Yes"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="JA"
+            android:layout_margin="5dp"
+
+            />
+            <!--android:onClick="onDigit"-->
+        <Button
+            android:id="@+id/NO"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_margin="5dp"
+            android:text="NEIN"
+            android:textAllCaps="false"/>
+        <!--android:onClick="onDigit"-->
+
+    </LinearLayout>
+
+
+
+
+
+</LinearLayout>

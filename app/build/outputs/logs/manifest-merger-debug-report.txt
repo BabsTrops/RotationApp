@@ -1,0 +1,345 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:2:1-54:12
+MERGED from [androidx.databinding:viewbinding:8.1.2] /home/nikgue/.gradle/caches/transforms-3/9d5d84b8fd633de3f8e1039da37d424e/transformed/jetified-viewbinding-8.1.2/AndroidManifest.xml:2:1-7:12
+MERGED from [im.dino:dbinspector:3.4.1] /home/nikgue/.gradle/caches/transforms-3/8dfa2005178f0b7b7d6b7d6f93d96cb1/transformed/jetified-dbinspector-3.4.1/AndroidManifest.xml:2:1-44:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.2] /home/nikgue/.gradle/caches/transforms-3/a3a4ed20e2466f3cb9a46322272ef73b/transformed/navigation-fragment-ktx-2.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/nikgue/.gradle/caches/transforms-3/9c964b1c139a3d50a92f57b8ea7391f6/transformed/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.2.2] /home/nikgue/.gradle/caches/transforms-3/4a9da8009a6c32a6e893a6d9bc03105c/transformed/navigation-ui-ktx-2.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.2] /home/nikgue/.gradle/caches/transforms-3/3579dcae7d2eba746df80c6efed254cc/transformed/navigation-runtime-ktx-2.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.2] /home/nikgue/.gradle/caches/transforms-3/59815146c87b78d65660a6221a27b06b/transformed/navigation-common-ktx-2.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/nikgue/.gradle/caches/transforms-3/34961433ea411c7f5d090591f4194e56/transformed/jetified-activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] /home/nikgue/.gradle/caches/transforms-3/12d1912dba0c161a8052a8b454456f50/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/nikgue/.gradle/caches/transforms-3/834300650119e42b3811b194370bcec4/transformed/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/nikgue/.gradle/caches/transforms-3/0d9dc13a6805debfd9361cd370aebdbc/transformed/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/nikgue/.gradle/caches/transforms-3/053bb20d49d029bd9234638a32db866d/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.2.2] /home/nikgue/.gradle/caches/transforms-3/22fe3bff9e8e1626133dcad5c0dc5820/transformed/navigation-ui-2.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0-alpha04] /home/nikgue/.gradle/caches/transforms-3/113d62b673104b1141e7d8447d39a5fa/transformed/material-1.3.0-alpha04/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/nikgue/.gradle/caches/transforms-3/7b11ae9be5cf161dbf62253498a5c749/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/nikgue/.gradle/caches/transforms-3/6f89291fec443c4cb8ba46dfafbadccc/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/nikgue/.gradle/caches/transforms-3/a442d191b34e2168eceec218c24575e7/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/nikgue/.gradle/caches/transforms-3/679afda053e59c63b0ea9cb5b2648060/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nikgue/.gradle/caches/transforms-3/06f3b7b959bb045316488c3beaf45224/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nikgue/.gradle/caches/transforms-3/e5a17030e8533e8a813525dda00531d3/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/nikgue/.gradle/caches/transforms-3/e4890c1bb1e2b0e6a63d3c411a9e5459/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/nikgue/.gradle/caches/transforms-3/aae595b6415f9eff1b04550f48702d6d/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/nikgue/.gradle/caches/transforms-3/20a95e787429151044a3ce5b4d31944d/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nikgue/.gradle/caches/transforms-3/ea286153c887c8a2be2e9c1674fca135/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nikgue/.gradle/caches/transforms-3/d5187083c68148adf2573555ba616940/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/nikgue/.gradle/caches/transforms-3/aabff6ade70ce5938c243d3eed5f5be7/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /home/nikgue/.gradle/caches/transforms-3/96edf6c8b7a8044819bc93f03d30680b/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nikgue/.gradle/caches/transforms-3/24ef7e9ecff5aa76018078edfa2eaece/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.2] /home/nikgue/.gradle/caches/transforms-3/64c1e7f6827047e7fb545119b7f3f445/transformed/navigation-fragment-2.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] /home/nikgue/.gradle/caches/transforms-3/82c8f79394b9a5f5d76ac705f2c55788/transformed/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nikgue/.gradle/caches/transforms-3/0d553223bbde6eafc37570189ada1037/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/nikgue/.gradle/caches/transforms-3/2993a1264a2e1dbd8ed2ef1996360e43/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/nikgue/.gradle/caches/transforms-3/b229c493c2909971f5336558be454927/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/nikgue/.gradle/caches/transforms-3/d94ef69ff73e3b242b650a2b4a9edc62/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/nikgue/.gradle/caches/transforms-3/7a6445333f9c66e2cc9353c3c7aa0241/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/nikgue/.gradle/caches/transforms-3/f2453f4982f27c58572efa279b757587/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/nikgue/.gradle/caches/transforms-3/4654f3aa264f1377926121658c135bf4/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.2] /home/nikgue/.gradle/caches/transforms-3/e615f207d41acf0d124202ccaa13be18/transformed/navigation-runtime-2.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] /home/nikgue/.gradle/caches/transforms-3/d4f6e3bc3bc5795b83410a54d13e5cdc/transformed/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.2] /home/nikgue/.gradle/caches/transforms-3/66e9c794343f150f87d5ff341562237c/transformed/navigation-common-2.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.2] /home/nikgue/.gradle/caches/transforms-3/972454ed85a9b8259c54e1f5d231aea2/transformed/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nikgue/.gradle/caches/transforms-3/669830ed1438494a2f058627a199a42e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nikgue/.gradle/caches/transforms-3/b82d62564f4018ded7eefd42b0b140ed/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nikgue/.gradle/caches/transforms-3/f3b83cd770b2d6361f5bf56e792064a3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/nikgue/.gradle/caches/transforms-3/5f311ee1f2767719318a93c9acfc6a37/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/nikgue/.gradle/caches/transforms-3/0b93fc6866b70efa0e03b442a8fd1373/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nikgue/.gradle/caches/transforms-3/8dfa4bde4754b20cff9725bd92861552/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nikgue/.gradle/caches/transforms-3/e1b9af0e147172191f99396618a72578/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/nikgue/.gradle/caches/transforms-3/b1bdb62b8b36d189cea29b4a73715822/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nikgue/.gradle/caches/transforms-3/e31ce6f225ee81730bc361090e546773/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/nikgue/.gradle/caches/transforms-3/c38cdecdaa117e38a0803e65a83f0fb6/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/nikgue/.gradle/caches/transforms-3/6d3fdcf00b5825c3f3a6f9f59c94b604/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nikgue/.gradle/caches/transforms-3/d9ffe18719ad918b61ccda928316d439/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/nikgue/.gradle/caches/transforms-3/ff33388aa7c01cea1f0e36d1869fdb7b/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/nikgue/.gradle/caches/transforms-3/1e4875710726a1d21c0c77bfff175744/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/nikgue/.gradle/caches/transforms-3/7eed0b7294a1c2cfa7b17e7d3bba5355/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:4:5-52:19
+INJECTED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:4:5-52:19
+MERGED from [im.dino:dbinspector:3.4.1] /home/nikgue/.gradle/caches/transforms-3/8dfa2005178f0b7b7d6b7d6f93d96cb1/transformed/jetified-dbinspector-3.4.1/AndroidManifest.xml:13:5-42:19
+MERGED from [im.dino:dbinspector:3.4.1] /home/nikgue/.gradle/caches/transforms-3/8dfa2005178f0b7b7d6b7d6f93d96cb1/transformed/jetified-dbinspector-3.4.1/AndroidManifest.xml:13:5-42:19
+MERGED from [com.google.android.material:material:1.3.0-alpha04] /home/nikgue/.gradle/caches/transforms-3/113d62b673104b1141e7d8447d39a5fa/transformed/material-1.3.0-alpha04/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0-alpha04] /home/nikgue/.gradle/caches/transforms-3/113d62b673104b1141e7d8447d39a5fa/transformed/material-1.3.0-alpha04/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/nikgue/.gradle/caches/transforms-3/7b11ae9be5cf161dbf62253498a5c749/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/nikgue/.gradle/caches/transforms-3/7b11ae9be5cf161dbf62253498a5c749/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.2] /home/nikgue/.gradle/caches/transforms-3/972454ed85a9b8259c54e1f5d231aea2/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /home/nikgue/.gradle/caches/transforms-3/972454ed85a9b8259c54e1f5d231aea2/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nikgue/.gradle/caches/transforms-3/f3b83cd770b2d6361f5bf56e792064a3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nikgue/.gradle/caches/transforms-3/f3b83cd770b2d6361f5bf56e792064a3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /home/nikgue/.gradle/caches/transforms-3/972454ed85a9b8259c54e1f5d231aea2/transformed/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:10:9-51
+activity#com.example.rotations_app.Evaluation
+ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:12:9-47
+	android:name
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:12:19-45
+activity#com.example.rotations_app.AddUser
+ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:13:9-16:58
+	android:label
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:15:13-60
+	android:theme
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:16:13-55
+	android:name
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:14:13-36
+activity#com.example.rotations_app.Immediaterotation
+ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:17:9-20:58
+	android:label
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:19:13-69
+	android:theme
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:20:13-55
+	android:name
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:18:13-46
+activity#com.example.rotations_app.Grund
+ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:21:9-24:58
+	android:label
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:23:13-57
+	android:theme
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:24:13-55
+	android:name
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:22:13-34
+activity#com.example.rotations_app.Abstimmen
+ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:25:9-28:58
+	android:label
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:27:13-61
+	android:theme
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:28:13-55
+	android:name
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:26:13-38
+activity#com.example.rotations_app.Bewertungen
+ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:29:9-32:58
+	android:label
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:31:13-63
+	android:theme
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:32:13-55
+	android:name
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:30:13-40
+activity#com.example.rotations_app.NextRotation
+ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:33:9-36:58
+	android:label
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:35:13-65
+	android:theme
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:36:13-55
+	android:name
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:34:13-41
+activity#com.example.rotations_app.Menue
+ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:37:9-40:58
+	android:label
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:39:13-57
+	android:theme
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:40:13-55
+	android:name
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:38:13-34
+activity#com.example.rotations_app.MainActivity
+ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:41:9-51:20
+	android:screenOrientation
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:44:13-49
+	android:label
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:43:13-45
+	android:windowSoftInputMode
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:46:13-55
+	android:theme
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:45:13-67
+	android:name
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:42:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:47:13-50:29
+action#android.intent.action.MAIN
+ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml:49:27-74
+uses-sdk
+INJECTED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml
+INJECTED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.1.2] /home/nikgue/.gradle/caches/transforms-3/9d5d84b8fd633de3f8e1039da37d424e/transformed/jetified-viewbinding-8.1.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.1.2] /home/nikgue/.gradle/caches/transforms-3/9d5d84b8fd633de3f8e1039da37d424e/transformed/jetified-viewbinding-8.1.2/AndroidManifest.xml:5:5-44
+MERGED from [im.dino:dbinspector:3.4.1] /home/nikgue/.gradle/caches/transforms-3/8dfa2005178f0b7b7d6b7d6f93d96cb1/transformed/jetified-dbinspector-3.4.1/AndroidManifest.xml:7:5-9:41
+MERGED from [im.dino:dbinspector:3.4.1] /home/nikgue/.gradle/caches/transforms-3/8dfa2005178f0b7b7d6b7d6f93d96cb1/transformed/jetified-dbinspector-3.4.1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.2] /home/nikgue/.gradle/caches/transforms-3/a3a4ed20e2466f3cb9a46322272ef73b/transformed/navigation-fragment-ktx-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.2] /home/nikgue/.gradle/caches/transforms-3/a3a4ed20e2466f3cb9a46322272ef73b/transformed/navigation-fragment-ktx-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/nikgue/.gradle/caches/transforms-3/9c964b1c139a3d50a92f57b8ea7391f6/transformed/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/nikgue/.gradle/caches/transforms-3/9c964b1c139a3d50a92f57b8ea7391f6/transformed/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.2.2] /home/nikgue/.gradle/caches/transforms-3/4a9da8009a6c32a6e893a6d9bc03105c/transformed/navigation-ui-ktx-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.2.2] /home/nikgue/.gradle/caches/transforms-3/4a9da8009a6c32a6e893a6d9bc03105c/transformed/navigation-ui-ktx-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.2] /home/nikgue/.gradle/caches/transforms-3/3579dcae7d2eba746df80c6efed254cc/transformed/navigation-runtime-ktx-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.2] /home/nikgue/.gradle/caches/transforms-3/3579dcae7d2eba746df80c6efed254cc/transformed/navigation-runtime-ktx-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.2] /home/nikgue/.gradle/caches/transforms-3/59815146c87b78d65660a6221a27b06b/transformed/navigation-common-ktx-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.2] /home/nikgue/.gradle/caches/transforms-3/59815146c87b78d65660a6221a27b06b/transformed/navigation-common-ktx-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/nikgue/.gradle/caches/transforms-3/34961433ea411c7f5d090591f4194e56/transformed/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/nikgue/.gradle/caches/transforms-3/34961433ea411c7f5d090591f4194e56/transformed/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] /home/nikgue/.gradle/caches/transforms-3/12d1912dba0c161a8052a8b454456f50/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /home/nikgue/.gradle/caches/transforms-3/12d1912dba0c161a8052a8b454456f50/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/nikgue/.gradle/caches/transforms-3/834300650119e42b3811b194370bcec4/transformed/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/nikgue/.gradle/caches/transforms-3/834300650119e42b3811b194370bcec4/transformed/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/nikgue/.gradle/caches/transforms-3/0d9dc13a6805debfd9361cd370aebdbc/transformed/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/nikgue/.gradle/caches/transforms-3/0d9dc13a6805debfd9361cd370aebdbc/transformed/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/nikgue/.gradle/caches/transforms-3/053bb20d49d029bd9234638a32db866d/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/nikgue/.gradle/caches/transforms-3/053bb20d49d029bd9234638a32db866d/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.2.2] /home/nikgue/.gradle/caches/transforms-3/22fe3bff9e8e1626133dcad5c0dc5820/transformed/navigation-ui-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.2.2] /home/nikgue/.gradle/caches/transforms-3/22fe3bff9e8e1626133dcad5c0dc5820/transformed/navigation-ui-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.3.0-alpha04] /home/nikgue/.gradle/caches/transforms-3/113d62b673104b1141e7d8447d39a5fa/transformed/material-1.3.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0-alpha04] /home/nikgue/.gradle/caches/transforms-3/113d62b673104b1141e7d8447d39a5fa/transformed/material-1.3.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/nikgue/.gradle/caches/transforms-3/7b11ae9be5cf161dbf62253498a5c749/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/nikgue/.gradle/caches/transforms-3/7b11ae9be5cf161dbf62253498a5c749/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/nikgue/.gradle/caches/transforms-3/6f89291fec443c4cb8ba46dfafbadccc/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/nikgue/.gradle/caches/transforms-3/6f89291fec443c4cb8ba46dfafbadccc/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/nikgue/.gradle/caches/transforms-3/a442d191b34e2168eceec218c24575e7/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/nikgue/.gradle/caches/transforms-3/a442d191b34e2168eceec218c24575e7/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/nikgue/.gradle/caches/transforms-3/679afda053e59c63b0ea9cb5b2648060/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/nikgue/.gradle/caches/transforms-3/679afda053e59c63b0ea9cb5b2648060/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nikgue/.gradle/caches/transforms-3/06f3b7b959bb045316488c3beaf45224/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nikgue/.gradle/caches/transforms-3/06f3b7b959bb045316488c3beaf45224/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nikgue/.gradle/caches/transforms-3/e5a17030e8533e8a813525dda00531d3/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nikgue/.gradle/caches/transforms-3/e5a17030e8533e8a813525dda00531d3/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/nikgue/.gradle/caches/transforms-3/e4890c1bb1e2b0e6a63d3c411a9e5459/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/nikgue/.gradle/caches/transforms-3/e4890c1bb1e2b0e6a63d3c411a9e5459/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/nikgue/.gradle/caches/transforms-3/aae595b6415f9eff1b04550f48702d6d/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/nikgue/.gradle/caches/transforms-3/aae595b6415f9eff1b04550f48702d6d/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/nikgue/.gradle/caches/transforms-3/20a95e787429151044a3ce5b4d31944d/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/nikgue/.gradle/caches/transforms-3/20a95e787429151044a3ce5b4d31944d/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nikgue/.gradle/caches/transforms-3/ea286153c887c8a2be2e9c1674fca135/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nikgue/.gradle/caches/transforms-3/ea286153c887c8a2be2e9c1674fca135/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nikgue/.gradle/caches/transforms-3/d5187083c68148adf2573555ba616940/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nikgue/.gradle/caches/transforms-3/d5187083c68148adf2573555ba616940/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/nikgue/.gradle/caches/transforms-3/aabff6ade70ce5938c243d3eed5f5be7/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/nikgue/.gradle/caches/transforms-3/aabff6ade70ce5938c243d3eed5f5be7/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /home/nikgue/.gradle/caches/transforms-3/96edf6c8b7a8044819bc93f03d30680b/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/nikgue/.gradle/caches/transforms-3/96edf6c8b7a8044819bc93f03d30680b/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nikgue/.gradle/caches/transforms-3/24ef7e9ecff5aa76018078edfa2eaece/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nikgue/.gradle/caches/transforms-3/24ef7e9ecff5aa76018078edfa2eaece/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.3.2] /home/nikgue/.gradle/caches/transforms-3/64c1e7f6827047e7fb545119b7f3f445/transformed/navigation-fragment-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.2] /home/nikgue/.gradle/caches/transforms-3/64c1e7f6827047e7fb545119b7f3f445/transformed/navigation-fragment-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /home/nikgue/.gradle/caches/transforms-3/82c8f79394b9a5f5d76ac705f2c55788/transformed/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /home/nikgue/.gradle/caches/transforms-3/82c8f79394b9a5f5d76ac705f2c55788/transformed/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nikgue/.gradle/caches/transforms-3/0d553223bbde6eafc37570189ada1037/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nikgue/.gradle/caches/transforms-3/0d553223bbde6eafc37570189ada1037/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/nikgue/.gradle/caches/transforms-3/2993a1264a2e1dbd8ed2ef1996360e43/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/nikgue/.gradle/caches/transforms-3/2993a1264a2e1dbd8ed2ef1996360e43/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/nikgue/.gradle/caches/transforms-3/b229c493c2909971f5336558be454927/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/nikgue/.gradle/caches/transforms-3/b229c493c2909971f5336558be454927/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/nikgue/.gradle/caches/transforms-3/d94ef69ff73e3b242b650a2b4a9edc62/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/nikgue/.gradle/caches/transforms-3/d94ef69ff73e3b242b650a2b4a9edc62/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/nikgue/.gradle/caches/transforms-3/7a6445333f9c66e2cc9353c3c7aa0241/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/nikgue/.gradle/caches/transforms-3/7a6445333f9c66e2cc9353c3c7aa0241/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/nikgue/.gradle/caches/transforms-3/f2453f4982f27c58572efa279b757587/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/nikgue/.gradle/caches/transforms-3/f2453f4982f27c58572efa279b757587/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/nikgue/.gradle/caches/transforms-3/4654f3aa264f1377926121658c135bf4/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/nikgue/.gradle/caches/transforms-3/4654f3aa264f1377926121658c135bf4/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.3.2] /home/nikgue/.gradle/caches/transforms-3/e615f207d41acf0d124202ccaa13be18/transformed/navigation-runtime-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.2] /home/nikgue/.gradle/caches/transforms-3/e615f207d41acf0d124202ccaa13be18/transformed/navigation-runtime-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/nikgue/.gradle/caches/transforms-3/d4f6e3bc3bc5795b83410a54d13e5cdc/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/nikgue/.gradle/caches/transforms-3/d4f6e3bc3bc5795b83410a54d13e5cdc/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.2] /home/nikgue/.gradle/caches/transforms-3/66e9c794343f150f87d5ff341562237c/transformed/navigation-common-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.2] /home/nikgue/.gradle/caches/transforms-3/66e9c794343f150f87d5ff341562237c/transformed/navigation-common-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /home/nikgue/.gradle/caches/transforms-3/972454ed85a9b8259c54e1f5d231aea2/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /home/nikgue/.gradle/caches/transforms-3/972454ed85a9b8259c54e1f5d231aea2/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nikgue/.gradle/caches/transforms-3/669830ed1438494a2f058627a199a42e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nikgue/.gradle/caches/transforms-3/669830ed1438494a2f058627a199a42e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nikgue/.gradle/caches/transforms-3/b82d62564f4018ded7eefd42b0b140ed/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nikgue/.gradle/caches/transforms-3/b82d62564f4018ded7eefd42b0b140ed/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nikgue/.gradle/caches/transforms-3/f3b83cd770b2d6361f5bf56e792064a3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nikgue/.gradle/caches/transforms-3/f3b83cd770b2d6361f5bf56e792064a3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/nikgue/.gradle/caches/transforms-3/5f311ee1f2767719318a93c9acfc6a37/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/nikgue/.gradle/caches/transforms-3/5f311ee1f2767719318a93c9acfc6a37/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/nikgue/.gradle/caches/transforms-3/0b93fc6866b70efa0e03b442a8fd1373/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/nikgue/.gradle/caches/transforms-3/0b93fc6866b70efa0e03b442a8fd1373/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nikgue/.gradle/caches/transforms-3/8dfa4bde4754b20cff9725bd92861552/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nikgue/.gradle/caches/transforms-3/8dfa4bde4754b20cff9725bd92861552/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nikgue/.gradle/caches/transforms-3/e1b9af0e147172191f99396618a72578/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nikgue/.gradle/caches/transforms-3/e1b9af0e147172191f99396618a72578/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/nikgue/.gradle/caches/transforms-3/b1bdb62b8b36d189cea29b4a73715822/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/nikgue/.gradle/caches/transforms-3/b1bdb62b8b36d189cea29b4a73715822/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nikgue/.gradle/caches/transforms-3/e31ce6f225ee81730bc361090e546773/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nikgue/.gradle/caches/transforms-3/e31ce6f225ee81730bc361090e546773/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/nikgue/.gradle/caches/transforms-3/c38cdecdaa117e38a0803e65a83f0fb6/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/nikgue/.gradle/caches/transforms-3/c38cdecdaa117e38a0803e65a83f0fb6/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/nikgue/.gradle/caches/transforms-3/6d3fdcf00b5825c3f3a6f9f59c94b604/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/nikgue/.gradle/caches/transforms-3/6d3fdcf00b5825c3f3a6f9f59c94b604/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nikgue/.gradle/caches/transforms-3/d9ffe18719ad918b61ccda928316d439/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nikgue/.gradle/caches/transforms-3/d9ffe18719ad918b61ccda928316d439/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/nikgue/.gradle/caches/transforms-3/ff33388aa7c01cea1f0e36d1869fdb7b/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/nikgue/.gradle/caches/transforms-3/ff33388aa7c01cea1f0e36d1869fdb7b/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/nikgue/.gradle/caches/transforms-3/1e4875710726a1d21c0c77bfff175744/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/nikgue/.gradle/caches/transforms-3/1e4875710726a1d21c0c77bfff175744/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/nikgue/.gradle/caches/transforms-3/7eed0b7294a1c2cfa7b17e7d3bba5355/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/nikgue/.gradle/caches/transforms-3/7eed0b7294a1c2cfa7b17e7d3bba5355/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nikgue/Downloads/Rotations_App4/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [im.dino:dbinspector:3.4.1] /home/nikgue/.gradle/caches/transforms-3/8dfa2005178f0b7b7d6b7d6f93d96cb1/transformed/jetified-dbinspector-3.4.1/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [im.dino:dbinspector:3.4.1] /home/nikgue/.gradle/caches/transforms-3/8dfa2005178f0b7b7d6b7d6f93d96cb1/transformed/jetified-dbinspector-3.4.1/AndroidManifest.xml:11:22-78
+activity#im.dino.dbinspector.activities.DbInspectorActivity
+ADDED from [im.dino:dbinspector:3.4.1] /home/nikgue/.gradle/caches/transforms-3/8dfa2005178f0b7b7d6b7d6f93d96cb1/transformed/jetified-dbinspector-3.4.1/AndroidManifest.xml:14:9-25:20
+	android:label
+		ADDED from [im.dino:dbinspector:3.4.1] /home/nikgue/.gradle/caches/transforms-3/8dfa2005178f0b7b7d6b7d6f93d96cb1/transformed/jetified-dbinspector-3.4.1/AndroidManifest.xml:17:13-57
+	android:icon
+		ADDED from [im.dino:dbinspector:3.4.1] /home/nikgue/.gradle/caches/transforms-3/8dfa2005178f0b7b7d6b7d6f93d96cb1/transformed/jetified-dbinspector-3.4.1/AndroidManifest.xml:16:13-61
+	android:theme
+		ADDED from [im.dino:dbinspector:3.4.1] /home/nikgue/.gradle/caches/transforms-3/8dfa2005178f0b7b7d6b7d6f93d96cb1/transformed/jetified-dbinspector-3.4.1/AndroidManifest.xml:19:13-71
+	android:taskAffinity
+		ADDED from [im.dino:dbinspector:3.4.1] /home/nikgue/.gradle/caches/transforms-3/8dfa2005178f0b7b7d6b7d6f93d96cb1/transformed/jetified-dbinspector-3.4.1/AndroidManifest.xml:18:13-55
+	android:name
+		ADDED from [im.dino:dbinspector:3.4.1] /home/nikgue/.gradle/caches/transforms-3/8dfa2005178f0b7b7d6b7d6f93d96cb1/transformed/jetified-dbinspector-3.4.1/AndroidManifest.xml:15:13-78
+service#im.dino.dbinspector.services.CopyDbIntentService
+ADDED from [im.dino:dbinspector:3.4.1] /home/nikgue/.gradle/caches/transforms-3/8dfa2005178f0b7b7d6b7d6f93d96cb1/transformed/jetified-dbinspector-3.4.1/AndroidManifest.xml:27:9-29:40
+	android:exported
+		ADDED from [im.dino:dbinspector:3.4.1] /home/nikgue/.gradle/caches/transforms-3/8dfa2005178f0b7b7d6b7d6f93d96cb1/transformed/jetified-dbinspector-3.4.1/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [im.dino:dbinspector:3.4.1] /home/nikgue/.gradle/caches/transforms-3/8dfa2005178f0b7b7d6b7d6f93d96cb1/transformed/jetified-dbinspector-3.4.1/AndroidManifest.xml:28:13-76
+service#im.dino.dbinspector.services.ImportDbIntentService
+ADDED from [im.dino:dbinspector:3.4.1] /home/nikgue/.gradle/caches/transforms-3/8dfa2005178f0b7b7d6b7d6f93d96cb1/transformed/jetified-dbinspector-3.4.1/AndroidManifest.xml:30:9-32:40
+	android:exported
+		ADDED from [im.dino:dbinspector:3.4.1] /home/nikgue/.gradle/caches/transforms-3/8dfa2005178f0b7b7d6b7d6f93d96cb1/transformed/jetified-dbinspector-3.4.1/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [im.dino:dbinspector:3.4.1] /home/nikgue/.gradle/caches/transforms-3/8dfa2005178f0b7b7d6b7d6f93d96cb1/transformed/jetified-dbinspector-3.4.1/AndroidManifest.xml:31:13-78
+service#im.dino.dbinspector.services.ClearTableIntentService
+ADDED from [im.dino:dbinspector:3.4.1] /home/nikgue/.gradle/caches/transforms-3/8dfa2005178f0b7b7d6b7d6f93d96cb1/transformed/jetified-dbinspector-3.4.1/AndroidManifest.xml:33:9-35:40
+	android:exported
+		ADDED from [im.dino:dbinspector:3.4.1] /home/nikgue/.gradle/caches/transforms-3/8dfa2005178f0b7b7d6b7d6f93d96cb1/transformed/jetified-dbinspector-3.4.1/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [im.dino:dbinspector:3.4.1] /home/nikgue/.gradle/caches/transforms-3/8dfa2005178f0b7b7d6b7d6f93d96cb1/transformed/jetified-dbinspector-3.4.1/AndroidManifest.xml:34:13-80
+provider#im.dino.dbinspector.providers.DatabaseProvider
+ADDED from [im.dino:dbinspector:3.4.1] /home/nikgue/.gradle/caches/transforms-3/8dfa2005178f0b7b7d6b7d6f93d96cb1/transformed/jetified-dbinspector-3.4.1/AndroidManifest.xml:37:9-41:50
+	android:grantUriPermissions
+		ADDED from [im.dino:dbinspector:3.4.1] /home/nikgue/.gradle/caches/transforms-3/8dfa2005178f0b7b7d6b7d6f93d96cb1/transformed/jetified-dbinspector-3.4.1/AndroidManifest.xml:41:13-47
+	android:authorities
+		ADDED from [im.dino:dbinspector:3.4.1] /home/nikgue/.gradle/caches/transforms-3/8dfa2005178f0b7b7d6b7d6f93d96cb1/transformed/jetified-dbinspector-3.4.1/AndroidManifest.xml:39:13-63
+	android:exported
+		ADDED from [im.dino:dbinspector:3.4.1] /home/nikgue/.gradle/caches/transforms-3/8dfa2005178f0b7b7d6b7d6f93d96cb1/transformed/jetified-dbinspector-3.4.1/AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from [im.dino:dbinspector:3.4.1] /home/nikgue/.gradle/caches/transforms-3/8dfa2005178f0b7b7d6b7d6f93d96cb1/transformed/jetified-dbinspector-3.4.1/AndroidManifest.xml:38:13-74
